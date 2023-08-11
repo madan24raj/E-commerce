@@ -1,0 +1,8 @@
+RewriteEngine On 
+
+RewriteCond %{HTTP_HOST} ^kamizacollections\.com [NC]
+
+RewriteCond %{SERVER_PORT} 80 
+
+RewriteRule ^(.*)$ https://www.kamizacollections.com/$1 [R,L]
+

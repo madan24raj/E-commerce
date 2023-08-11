@@ -1,0 +1,10 @@
+[24-May-2018 11:30:21 UTC] PHP Notice:  Undefined index: ORDER_ID in /home/qyuzfk56kcv3/public_html/PaytmKit/pgRedirect.php on line 12
+[24-May-2018 11:30:21 UTC] PHP Notice:  Undefined index: CUST_ID in /home/qyuzfk56kcv3/public_html/PaytmKit/pgRedirect.php on line 13
+[24-May-2018 11:30:21 UTC] PHP Notice:  Undefined index: INDUSTRY_TYPE_ID in /home/qyuzfk56kcv3/public_html/PaytmKit/pgRedirect.php on line 14
+[24-May-2018 11:30:21 UTC] PHP Notice:  Undefined index: CHANNEL_ID in /home/qyuzfk56kcv3/public_html/PaytmKit/pgRedirect.php on line 15
+[24-May-2018 11:30:21 UTC] PHP Notice:  Undefined index: TXN_AMOUNT in /home/qyuzfk56kcv3/public_html/PaytmKit/pgRedirect.php on line 16
+[24-May-2018 11:32:34 UTC] PHP Notice:  Undefined index: ORDER_ID in /home/qyuzfk56kcv3/public_html/PaytmKit/pgRedirect.php on line 12
+[24-May-2018 11:32:34 UTC] PHP Notice:  Undefined index: CUST_ID in /home/qyuzfk56kcv3/public_html/PaytmKit/pgRedirect.php on line 13
+[24-May-2018 11:32:34 UTC] PHP Notice:  Undefined index: INDUSTRY_TYPE_ID in /home/qyuzfk56kcv3/public_html/PaytmKit/pgRedirect.php on line 14
+[24-May-2018 11:32:34 UTC] PHP Notice:  Undefined index: CHANNEL_ID in /home/qyuzfk56kcv3/public_html/PaytmKit/pgRedirect.php on line 15
+[24-May-2018 11:32:34 UTC] PHP Notice:  Undefined index: TXN_AMOUNT in /home/qyuzfk56kcv3/public_html/PaytmKit/pgRedirect.php on line 16
